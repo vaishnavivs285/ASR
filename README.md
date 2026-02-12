@@ -57,7 +57,7 @@ This dataset represents real-world retail behavior.
 
 ------------------------------------------------------------------------
 
-## 5. How Each Step Leads to the Next
+## Steps
 
 ### Step 1: Load Dataset
 
