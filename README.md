@@ -43,7 +43,7 @@ This project solves these problems using Association Rule Mining.
 
 ## 4. Dataset Used
 
-Groceries Dataset
+Groceries Dataset : https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/groceries.csv
 
 -   9835 transactions
 -   169 unique products
